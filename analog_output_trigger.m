@@ -22,6 +22,8 @@ plot(waveform);
 
 hTask = dabs.ni.daqmx.Task('create analog output');
 hTask.createAOVoltageChan('Dev1',1);
+% hTask.createDOChan('Dev1', 'port0/line0'); % Digital Output
+
 hTask.cfgSampClkTiming(sampleRate,'DAQmx_Val_FiniteSamps',numberOfSamplesToWrite);
 hTask.cfgDigEdgeStartTrig('PFI1', 'DAQmx_Val_Rising');
 hTask.cfgOutputBuffer(numberOfSamplesToWrite);
