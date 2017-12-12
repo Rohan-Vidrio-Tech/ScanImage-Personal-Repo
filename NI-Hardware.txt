@@ -9,6 +9,19 @@ http://www.ni.com/en-us/support/model.pxie-7961.html
 PXI Chassis
 1) All the cards used in ScanImage are PXi Express
 http://www.ni.com/en-us/support/model.pxie-1082.html
+http://sine.ni.com/nips/cds/view/modelpopup/p/pcat/12269/lang/en
+
+Shielded Cables for X & R series
+http://www.ni.com/datasheet/pdf/en/ds-467
+
+Digitizers
+4 channel: http://sine.ni.com/nips/cds/view/modelpopup/p/pcat/14898/lang/en
+2 channel: http://sine.ni.com/nips/cds/view/modelpopup/p/pcat/14593/lang/en
+
+
+Beam and Piezo Control
+http://sine.ni.com/nips/cds/view/modelpopup/p/pcat/11512/lang/en
+
 
 
 
