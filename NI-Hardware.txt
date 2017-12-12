@@ -1,0 +1,14 @@
+
+National Instruments: ScanImage Resonant Scanning Bundle
+http://sine.ni.com/nips/cds/view/p/lang/en/nid/212743
+
+FPGA Module for FlexRio 
+http://www.ni.com/en-us/support/model.pxie-7961.html
+
+
+PXI Chassis
+1) All the cards used in ScanImage are PXi Express
+http://www.ni.com/en-us/support/model.pxie-1082.html
+
+
+
